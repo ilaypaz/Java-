@@ -5,7 +5,6 @@ import java.util.ArrayList;
  * A class that represents a one room hotel and allows reservations to be made
  * and cancelled for the month of December.
  * 
-  * @author Chinmaya
  *
  */
 
@@ -126,4 +125,5 @@ public class Hotel {
 	}
 
 }
+
 
